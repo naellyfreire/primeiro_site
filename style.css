@@ -41,7 +41,7 @@
 }
 
 .show-menu #line1{
-    transform: rotate(45deg) translate(.3rem, .45rem);
+    transform: rotate(48deg) translate(.3rem, .35rem);
 }
 
 .show-menu #line2{
@@ -50,7 +50,7 @@
 }
 
 .show-menu #line3{
-    transform: rotate(-45deg) translate(.3rem, -.45rem);
+    transform: rotate(-48deg) translate(.3rem, -.35rem);
 }
 
 .hamburguer span{
